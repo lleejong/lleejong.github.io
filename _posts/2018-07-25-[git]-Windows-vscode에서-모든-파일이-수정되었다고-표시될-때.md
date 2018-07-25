@@ -1,3 +1,7 @@
+---
+layout: post
+title: [Git] Windows vscode에서 모든 파일이 수정되었다고 표시될 때
+---
 ## Windows vscode에서 수정된 사항이 없는데도 git에서 수정되었다고 표시 될 .
 
 vscode에서 git repository에서 방금 받은 프로젝트의 모든 파일 혹은 일부 파일이 수정되었다고 표시되는 경우가 간혹 발생한다.   
