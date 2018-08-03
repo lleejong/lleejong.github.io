@@ -1,13 +1,17 @@
 ---
-layout: post
-title: [Git] Windows vscode에서 모든 파일이 수정되었다고 표시될 때
+title: Windows vscode에서 모든 파일이 수정되었다고 표시될 때
+permalink: /_posts/
+author_profile: true
+tags:
+    - git
+    - vscode
 ---
-## Windows vscode에서 수정된 사항이 없는데도 git에서 수정되었다고 표시 될 .
-
 vscode에서 git repository에서 방금 받은 프로젝트의 모든 파일 혹은 일부 파일이 수정되었다고 표시되는 경우가 간혹 발생한다.   
+
+
 ![vscode marked files as modiffied]({{"/assets/images/2018-07-25/2018-07-25-[git]-marked-as-modified-in-vscode.PNG"| relative_url}})
 
-vscode의 Gitlens(https://github.com/eamodio/vscode-gitlens)를 통해 봐도, 파일이 변해있다고 표시가 되어있으나 실제 diff창을 확인해봐도 육안으로는 차이점을 못 느낀다.  
+vscode의 [Gitlens](https://github.com/eamodio/vscode-gitlens)를 통해 봐도, 파일이 변해있다고 표시가 되어있으나 실제 diff창을 확인해봐도 육안으로는 차이점을 못 느낀다.  
 ![vscode marked files as modiffied]({{"/assets/images/2018-07-25/2018-07-25-[git]-marked-as-modified-in-gitlens.PNG"| relative_url}})
 
 > 진짜로 달라보이는게 없음...
