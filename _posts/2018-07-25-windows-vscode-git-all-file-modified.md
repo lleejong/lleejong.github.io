@@ -1,7 +1,6 @@
 ---
-title: Windows vscode에서 모든 파일이 수정되었다고 표시될 때
-permalink: /_posts/
-author_profile: true
+title: "[Git] Windows vscode에서 git project의 모든 파일이 수정되었다고 표시될 때"
+date: 2018-07-25 00:00:00
 tags:
     - git
     - vscode
